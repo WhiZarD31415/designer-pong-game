@@ -8,13 +8,13 @@ To get started with running this program, you will need the 'designer' and 'data
 You will need:
 - Python 3.12.1 (recommended)
 - PyPI (Python Package Index https://pypi.org/)
-    - dataclasses 0.8 (run $py -m pip install dataclasses$)
-    - designer 0.6.6 (run $py -m pip install designer$)
+    - dataclasses 0.8 (run "py -m pip install dataclasses")
+    - designer 0.6.6 (run "py -m pip install designer")
 - A way to run *.py files with packages installed
 
 ## Installing
-- dataclasses 0.8 (run $py -m pip install dataclasses$)
-- designer 0.6.6 (run $py -m pip install designer$)
+- dataclasses 0.8 (run "py -m pip install dataclasses")
+- designer 0.6.6 (run "py -m pip install designer")
 
 ## Running the tests
 Not currently applicable
@@ -31,11 +31,10 @@ Not currently applicable
 Not currently applicable
 
 ## Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+Not currently applicable
 
 ## Authors
 Connor Vitz - Initial work - Personal
-No others (currently)
 
 ## License
 Not currently applicable
